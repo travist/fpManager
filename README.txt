@@ -1,0 +1,1 @@
+fpManager is a plugin manager for Flash written in ActionScript 3.  It easily allows you to break apart all of your components into plugins and establish dependencies between those components.

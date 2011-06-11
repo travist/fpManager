@@ -1,0 +1,32 @@
+<!-- This is the main configuration file for the plugin manager. -->
+<config>
+   <settings>
+     <!-- Enter your plugin settings here... -->
+   </settings>
+   <plugins>
+       
+      <!-- Enter the plugins to be used, and their dependencies in the following format..
+      <plugin>
+         <type>mediaPlayer</type>
+         <name>mediaPlayer</name>
+         <visible>true</visible>
+      </plugin>     
+      <plugin>
+         <type>playLoader</type>
+         <name>playLoader</name>
+         <visible>true</visible>         
+         <dependencies>
+            <dependency>mediaPlayer</dependency>
+         </dependencies>
+      </plugin> 
+      <plugin>
+         <type>controlBar</type>
+         <name>controlBar</name>
+         <visible>true</visible>         
+         <dependencies>
+            <dependency>mediaPlayer</dependency>
+         </dependencies>
+      </plugin>
+      -->
+   </plugins>
+</config>

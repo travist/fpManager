@@ -1,0 +1,1 @@
+Place all of your skins in this directory.  For an example of how this is done, go to the mvPlayer project.
